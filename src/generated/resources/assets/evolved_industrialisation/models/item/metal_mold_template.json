@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "evolved_industrialisation:item/metal_mold_template"
+  }
+}

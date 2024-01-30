@@ -1,0 +1,40 @@
+
+modLoader="javafml"
+
+loaderVersion="${loader_version_range}"
+
+license="MIT"
+
+[[mods]]
+
+modId="evolved_industrialisation"
+
+version="1.0.0"
+
+displayName="Evolved Industrialisation"
+
+authors="Indevo Studio"
+
+
+description='''A large industrial mod specialized in branching progression, large-scale resource processing, and total automation'''
+
+[[dependencies.evolved_industrialisation]]
+
+modId="forge"
+
+mandatory=true
+
+versionRange="${forge_version_range}"
+
+ordering="NONE"
+
+side="BOTH"
+
+[[dependencies.evolved_industrialisation]]
+modId="minecraft"
+mandatory=true
+
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+
