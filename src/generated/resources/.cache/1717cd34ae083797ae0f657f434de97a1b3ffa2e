@@ -1,2 +1,8 @@
-// 1.20.1	2024-01-29T22:28:12.9926002	Item Models: evolved_industrialisation
+// 1.20.1	2024-01-30T23:20:59.7393256	Item Models: evolved_industrialisation
+bb9de0a558af506ebbbb1377c13cfb060ffe2e42 assets/evolved_industrialisation/models/item/metal_mold_coin.json
+310eb323348708a2f67beb656ac503a3706a14a3 assets/evolved_industrialisation/models/item/metal_mold_gear.json
+b4e4ea8fe5035b4e185a68766962a33058a61de1 assets/evolved_industrialisation/models/item/metal_mold_ingot.json
+49704f986fc4da4c256960e4c3512931e173f0fd assets/evolved_industrialisation/models/item/metal_mold_nugget.json
+bca39ae67d246e3973968f2dbfdf709f1dedea69 assets/evolved_industrialisation/models/item/metal_mold_plate.json
+3bd5b2851d14677a09af9ca25f292dd9cd193093 assets/evolved_industrialisation/models/item/metal_mold_rod.json
 b3da662f327c386429d6e6eee6857d9cdf7675e8 assets/evolved_industrialisation/models/item/metal_mold_template.json

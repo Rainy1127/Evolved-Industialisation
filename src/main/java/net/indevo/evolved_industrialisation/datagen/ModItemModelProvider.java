@@ -39,6 +39,12 @@ public class ModItemModelProvider extends ItemModelProvider {
     @Override
     protected void registerModels() {
         simpleItem(ModItems.METAL_MOLD_TEMPLATE);
+        simpleItem(ModItems.METAL_MOLD_PLATE);
+        simpleItem(ModItems.METAL_MOLD_ROD);
+        simpleItem(ModItems.METAL_MOLD_GEAR);
+        simpleItem(ModItems.METAL_MOLD_COIN);
+        simpleItem(ModItems.METAL_MOLD_INGOT);
+        simpleItem(ModItems.METAL_MOLD_NUGGET);
     }
 
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {

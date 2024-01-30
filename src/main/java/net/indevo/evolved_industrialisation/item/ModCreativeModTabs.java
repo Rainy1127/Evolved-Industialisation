@@ -18,6 +18,16 @@ public class ModCreativeModTabs {
                     .title(Component.translatable("creativetab.evolved_industrialisation"))
                     .displayItems(((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.METAL_MOLD_TEMPLATE.get());
+                        pOutput.accept(ModItems.METAL_MOLD_PLATE.get());
+                        pOutput.accept(ModItems.METAL_MOLD_ROD.get());
+                        pOutput.accept(ModItems.METAL_MOLD_GEAR.get());
+                        pOutput.accept(ModItems.METAL_MOLD_WIRE.get());
+                        pOutput.accept(ModItems.METAL_MOLD_BULLET.get());
+                        pOutput.accept(ModItems.METAL_MOLD_PACKING.get());
+                        pOutput.accept(ModItems.METAL_MOLD_UNPACKING.get());
+                        pOutput.accept(ModItems.METAL_MOLD_COIN.get());
+                        pOutput.accept(ModItems.METAL_MOLD_INGOT.get());
+                        pOutput.accept(ModItems.METAL_MOLD_NUGGET.get());
                     }))
                     .build());
 

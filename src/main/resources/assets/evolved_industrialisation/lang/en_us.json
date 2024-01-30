@@ -1,5 +1,15 @@
 {
   "item.evolved_industrialisation.metal_mold_template": "Metal Mold Template",
+  "item.evolved_industrialisation.metal_mold_plate": "Metal Mold Plate",
+  "item.evolved_industrialisation.metal_mold_rod": "Metal Mold: Rod",
+  "item.evolved_industrialisation.metal_mold_gear": "Metal Mold: Gear",
+  "item.evolved_industrialisation.metal_mold_wire": "Metal Mold: Wire",
+  "item.evolved_industrialisation.metal_mold_bullet": "Metal Mold: Bullet",
+  "item.evolved_industrialisation.metal_mold_packing": "Metal Mold: Packing",
+  "item.evolved_industrialisation.metal_mold_unpacking": "Metal Mold: Unpacking",
+  "item.evolved_industrialisation.metal_mold_coin": "Metal Mold: Coin",
+  "item.evolved_industrialisation.metal_mold_ingot": "Metal Mold: Ingot",
+  "item.evolved_industrialisation.metal_mold_nugget": "Metal Mold: Nugget",
 
   "creativetab.evolved_industrialisation": "Evolved Industrialisation"
 }

@@ -1,5 +1,15 @@
 {
   "item.evolved_industrialisation.metal_mold_template": "Шаблон металлической пресс-формы",
+  "item.evolved_industrialisation.metal_mold_plate": "Металлическая пресс-форма: Пластина",
+  "item.evolved_industrialisation.metal_mold_rod": "Металлическая пресс-форма: Стержень",
+  "item.evolved_industrialisation.metal_mold_gear": "Металлическая пресс-форма: Шестерня",
+  "item.evolved_industrialisation.metal_mold_wire": "Металлическая пресс-форма: Провод",
+  "item.evolved_industrialisation.metal_mold_bullet": "Металлическая пресс-форма: Патрон",
+  "item.evolved_industrialisation.metal_mold_packing": "Металлическая пресс-форма: Запаковка",
+  "item.evolved_industrialisation.metal_mold_unpacking": "Металлическая пресс-форма: Распаковка",
+  "item.evolved_industrialisation.metal_mold_coin": "Металлическая пресс-форма: Монета",
+  "item.evolved_industrialisation.metal_mold_ingot": "Металлическая пресс-форма: Слиток",
+  "item.evolved_industrialisation.metal_mold_nugget": "Металлическая пресс-форма: Кусочек",
 
 
   "creativetab.evolved_tab": "Evolved Industrialisation"
